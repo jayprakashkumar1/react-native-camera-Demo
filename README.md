@@ -1,7 +1,16 @@
 # react-native-camera-Demo
 react native camera
 
-# Build Process : 
+# Front Camera : 
+
+![Screenshot_2019-08-17-15-02-33-702_com reactnativeocr](https://user-images.githubusercontent.com/26687042/63209588-6e86ce80-c100-11e9-8647-248ee17a9290.png)
+
+# Back camera : 
+
+![Screenshot_2019-08-17-15-02-00-238_com reactnativeocr](https://user-images.githubusercontent.com/26687042/63209589-6f1f6500-c100-11e9-905c-f74b1d5162b2.png)
+
+
+# Build Process : Follow Below Instruction for android & IOS
 
 # React Native Camera [![Backers on Open Collective](https://opencollective.com/react-native-camera/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-camera/sponsors/badge.svg)](#sponsors) [![npm version](https://badge.fury.io/js/react-native-camera.svg)](http://badge.fury.io/js/react-native-camera) [![npm downloads](https://img.shields.io/npm/dm/react-native-camera.svg)](https://www.npmjs.com/package/react-native-camera)
 
@@ -29,7 +38,7 @@ Support us with a monthly donation and help us continue our activities. [[Become
 <a href="https://opencollective.com/react-native-camera/backer/2/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/2/avatar.svg"></a>
 <a href="https://opencollective.com/react-native-camera/backer/3/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/3/avatar.svg"></a>
 <a href="https://opencollective.com/react-native-camera/backer/4/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/react-native-camera/backer/5/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/react-native-camera/backer/5/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/5/avatar.svg"></a> 
 <a href="https://opencollective.com/react-native-camera/backer/6/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/6/avatar.svg"></a>
 <a href="https://opencollective.com/react-native-camera/backer/7/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/7/avatar.svg"></a>
 <a href="https://opencollective.com/react-native-camera/backer/8/website" target="_blank"><img src="https://opencollective.com/react-native-camera/backer/8/avatar.svg"></a>
