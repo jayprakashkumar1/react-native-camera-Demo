@@ -62,7 +62,7 @@ async function requestStorageReadPermission() {
       },
     );
     if (granted === PermissionsAndroid.RESULTS.GRANTED) {
-      console.log('You can use the Ocr App for reading');
+      console.log('You can use the Ocr App for reading.');
     } else {
       console.log('Read permission denied');
     } 
